@@ -11,12 +11,14 @@
 [清风网](http://www.vvvdj.com/)
 
 ### 使用
-1. 下载[node](http://nodejs.cn/download/)安装
-2. 在本项目根目录下打开cmd，运行`npm i`安装依赖，等待几分钟，慢的话就看集斗罗大陆再回来。如果实在下载不了，[手动下载chromium包，解压放到项目根目录](https://download-chromium.appspot.com/)
-3. 打开清风网获取自己收藏的列表
+1. [点击下载本项目](https://github.com/982991084/vvvdj-batch-download)解压
+![](http://ww1.sinaimg.cn/large/005Ee4Bigy1g7abjmhuprj30vv0nfac6.jpg)
+2. 下载[node](http://nodejs.cn/download/)安装
+3. 在本项目根目录下打开cmd，运行`npm i`安装依赖，等待几分钟，慢的话就看集斗罗大陆再回来。如果实在下载不了，[手动下载chromium包，解压放到项目根目录](https://download-chromium.appspot.com/)
+4. 打开清风网获取自己收藏的列表
 ![](http://ww1.sinaimg.cn/large/005Ee4Bigy1g78ptidenvj313v0l1agb.jpg)
-4. 修改本项目`index.js`文件下的ids和boxid为上面所获取到的值
-5. 在cmd里执行`node index`，记得全屏显示，不然有点小小小小的bug
-6. 等待是漫长的，歌曲多的话，该干嘛就干嘛去呗
-7. 下载后的歌曲在download文件下
-8. 完毕，就这么简单！
+5. 修改本项目`index.js`文件下的ids和boxid为上面所获取到的值
+6. 在cmd里执行`node index`，记得全屏显示，不然有点小小小小的bug
+7. 等待是漫长的，歌曲多的话，该干嘛就干嘛去呗
+8. 下载后的歌曲在download文件下
+9. 完毕，就这么简单！
